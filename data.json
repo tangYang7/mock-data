@@ -1,0 +1,170 @@
+{
+    "0": {
+        "email": "259W610E90@gmail.com",
+        "phone": "+886-900196592",
+        "password": "909E6210W5",
+        "firstName": "宇杰",
+        "middleName": "",
+        "lastName": "謝",
+        "gender": "Female",
+        "birthday": "2000-09-11",
+        "applyInfo": {
+            "idCard": "Q213630876",
+            "bornAddress": {
+                "country": "Taiwan",
+                "postalCode": "39649",
+                "city": "台北市",
+                "address": "台北市仁心路一段5號"
+            }
+        },
+        "role": "Admin",
+        "nationality": "Taiwan"
+    },
+    "1": {
+        "email": "W39068I556@gmail.com",
+        "phone": "+886-966935850",
+        "password": "6906I85W53",
+        "firstName": "Neal",
+        "middleName": "",
+        "lastName": "Wilson",
+        "gender": "Female",
+        "birthday": "2001-12-06",
+        "applyInfo": {
+            "idCard": "I66935850",
+            "bornAddress": {
+                "country": "Hong Kong",
+                "postalCode": "28305",
+                "city": "新北市",
+                "address": "新北市清信路45號"
+            }
+        },
+        "role": "Applicant",
+        "nationality": "Hong Kong"
+    },
+    "2": {
+        "email": "504941U8R1@gmail.com",
+        "phone": "+886-945110498",
+        "password": "4141R0895U",
+        "firstName": "John",
+        "middleName": "",
+        "lastName": "Walker",
+        "gender": "Female",
+        "birthday": "2001-07-19",
+        "applyInfo": {
+            "idCard": "U45110498",
+            "bornAddress": {
+                "country": "China",
+                "postalCode": "35395",
+                "city": "新北市",
+                "address": "新北市民竹路二段10號"
+            }
+        },
+        "role": "Applicant",
+        "nationality": "China"
+    },
+    "3": {
+        "email": "G47653e211@gmail.com",
+        "phone": "+886-943726511",
+        "password": "16725G143e",
+        "firstName": "樺法",
+        "middleName": "",
+        "lastName": "劉",
+        "gender": "Female",
+        "birthday": "2003-10-14",
+        "applyInfo": {
+            "idCard": "F173817817",
+            "bornAddress": {
+                "country": "Taiwan",
+                "postalCode": "26505",
+                "city": "台北市",
+                "address": "台北市民竹路32號"
+            }
+        },
+        "role": "Reviewer",
+        "nationality": "Taiwan"
+    },
+    "4": {
+        "email": "2620f1s745@gmail.com",
+        "phone": "+886-920167254",
+        "password": "f5642s7120",
+        "firstName": "Mary",
+        "middleName": "",
+        "lastName": "Walker",
+        "gender": "Male",
+        "birthday": "2003-05-06",
+        "applyInfo": {
+            "idCard": "s20167254",
+            "bornAddress": {
+                "country": "Canada",
+                "postalCode": "88317",
+                "city": "台北市",
+                "address": "台北市清信路45號"
+            }
+        },
+        "role": "Reviewer",
+        "nationality": "Canada"
+    },
+    "5": {
+        "email": "3E3255349u@gmail.com",
+        "phone": "+886-992354353",
+        "password": "235E3u5349",
+        "firstName": "強毞",
+        "middleName": "",
+        "lastName": "劉",
+        "gender": "Male",
+        "birthday": "2003-11-19",
+        "applyInfo": {
+            "idCard": "I178793024",
+            "bornAddress": {
+                "country": "Taiwan",
+                "postalCode": "19195",
+                "city": "雲林縣",
+                "address": "雲林縣民竹路168號"
+            }
+        },
+        "role": "Admin",
+        "nationality": "Taiwan"
+    },
+    "6": {
+        "email": "548Y080Z52@gmail.com",
+        "phone": "+886-928005548",
+        "password": "8Y824505Z0",
+        "firstName": "電罐",
+        "middleName": "",
+        "lastName": "吳",
+        "gender": "Female",
+        "birthday": "1999-01-02",
+        "applyInfo": {
+            "idCard": "N156293122",
+            "bornAddress": {
+                "country": "Taiwan",
+                "postalCode": "14837",
+                "city": "新北市",
+                "address": "新北市幸益路52號"
+            }
+        },
+        "role": "PM",
+        "nationality": "Taiwan"
+    },
+    "7": {
+        "email": "41h4X09155@gmail.com",
+        "phone": "+886-945519140",
+        "password": "910551h4X4",
+        "firstName": "冥客",
+        "middleName": "",
+        "lastName": "劉",
+        "gender": "Male",
+        "birthday": "2001-09-19",
+        "applyInfo": {
+            "idCard": "E160697293",
+            "bornAddress": {
+                "country": "Taiwan",
+                "postalCode": "04245",
+                "city": "台南市",
+                "address": "台南市幸益路45號"
+            }
+        },
+        "role": "Admin",
+        "nationality": "Taiwan"
+    }
+}
